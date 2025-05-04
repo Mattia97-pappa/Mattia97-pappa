@@ -2,7 +2,7 @@
 
 💻 Junior Developer with knowledge in:
 
-- Java,C#,SQL, JavaScript, Spring framework
+- Java, C# ,SQL, JavaScript, Spring framework
 
 # 🌐 My Website & LinkedIn Profile
 
